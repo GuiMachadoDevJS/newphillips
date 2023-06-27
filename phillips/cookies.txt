@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.giovanareimer.com.br	TRUE	/	FALSE	1999999999	__cf_bm	C6kT8534CMhfwvKpSDO4ifSD.1xjIhp2ckqVN9Q08Vk-1687637758-0-AaK5qCC2aVh8HSj9lxergp/ag/aJmC36DkKQov04QzclniVpMsp2LRkwe+S4sS41pIW+BM+XotIxXH5Lj2cfuEo=
+www.giovanareimer.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
